@@ -1,15 +1,4 @@
-# Kita Pintar
 
-Kita pintar adalah sebuah forum berbasis laravel dan mysql dimana user bisa bertanya dan mengajukan pertanyaan serta bisa menjawab pertanyaan.
-
-## Nama Kelompok:
-1. asdasdas
-2. asdasdhas
-3. adasdasd
-4. asdasd
-5. asdasd
-
-## Link video:
 
 #### Fitur aplikasi.
 - Login Register mengunakan Laravel Fortify
